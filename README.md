@@ -1,6 +1,6 @@
  # 👋 Hi, I’m @yasindavids
-- 🎹 I’m interested in UI design and finance
-- 🌱 I’m currently learning web development and quantitative analysis
+- 🎹 I’m interested in programming and finance
+- 🌱 I’m currently learning quantitative analysis
 - 📫 How to reach me yasindavids1134@gmail.com
 
 
