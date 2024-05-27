@@ -1,6 +1,6 @@
  # 👋 Hi, I’m @yasindavids
-- 🎹 I’m interested in programming and finance
-- 🌱 I’m currently learning quantitative analysis
+- 🎹 I’m interested in machine learning and quantitative analysis
+- 🌱 I’m currently learning advanced calculus for neural network algorithms
 - 📫 How to reach me yasindavids1134@gmail.com
 
 
