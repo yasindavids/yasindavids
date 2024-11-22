@@ -1,6 +1,5 @@
  # 👋 Hi, I’m @yasindavids
 - 🎹 I’m interested in machine learning and quantitative analysis
-- 🌱 I’m currently learning calculus for neural network algorithms
 - 📫 How to reach me yasin.davids@outlook.com
 
 
