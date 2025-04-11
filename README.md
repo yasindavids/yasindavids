@@ -1,5 +1,6 @@
  # 👋 Hi, I’m @yasindavids
 - 🎹 I’m interested in machine learning and quantitative analysis
+- 👨‍💻 I'm currently interning at ElixxirDigital
 - 📫 How to reach me yasin.davids@outlook.com
 
 
